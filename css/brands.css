@@ -87,6 +87,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Lookahead */
+.button.button-lookahead {
+  color: #ecb7b8;
+  background-color: #ecb7b8;
+  border: 1px solid #ecb7b8;
+}
+.button.button-brandname:hover,
+.button.button-brandname:focus {
+  filter: brightness(90%);
+}
+
 /* Amazon */
 .button.button-amazon {
   color: #000000;
