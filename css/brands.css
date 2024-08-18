@@ -98,6 +98,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Sourcr */
+.button.button-sourcr {
+  color: #e84778;
+  background-color: #e84778;
+  border: 1px solid #e84778;
+}
+.button.button-brandname:hover,
+.button.button-brandname:focus {
+  filter: brightness(90%);
+}
+
 /* Amazon */
 .button.button-amazon {
   color: #000000;
